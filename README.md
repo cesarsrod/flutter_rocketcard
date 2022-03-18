@@ -1,6 +1,10 @@
 # flutter_rocket_card
 
-A new Flutter project.
+Rocketcard from Rocketseat Discover challenges.
+
+Layout done, data from mock, implementing GetX to get data from github api.
+
+Project in progress.
 
 ## Getting Started
 
